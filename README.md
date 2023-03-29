@@ -1,4 +1,4 @@
-# 🤖 Reinforcement Learning Techniques: Analysis and Implementation 🎓
+# 🤖 Reinforcement Learning Techniques: Analysis and Implementation 🎮
 
 Welcome to my reinforcement learning project! This project aims to analyze various reinforcement learning techniques, such as MDP solvers, Monte Carlo, Q-learning, DQN, REINFORCE, and DDPG, and provide insights into their effectiveness and implementation.
 
