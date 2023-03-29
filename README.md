@@ -1,8 +1,8 @@
-🤖 Reinforcement Learning Techniques: Analysis and Implementation 🎓
+# 🤖 Reinforcement Learning Techniques: Analysis and Implementation 🎓
 
 Welcome to my reinforcement learning project! This project aims to analyze various reinforcement learning techniques, such as MDP solvers, Monte Carlo, Q-learning, DQN, REINFORCE, and DDPG, and provide insights into their effectiveness and implementation.
 
-📋 Table of Contents
+## 📋 Table of Contents
 
 <ul>
   <li><a href="#introduction">Introduction</a></li>
@@ -13,14 +13,16 @@ Welcome to my reinforcement learning project! This project aims to analyze vario
   <li><a href="#recommendations">Recommendations</a></li>
   <li><a href="#implementation">Implementation Examples</a></li>
 </ul>
+
 <a name="introduction"></a>
-🚀 Introduction
+
+## 🚀 Introduction
 
 Reinforcement learning (RL) is an essential branch of artificial intelligence that focuses on training agents to make decisions based on interactions with their environment. The goal is to maximize the cumulative reward over time. Various techniques have been developed to solve RL problems, and this project aims to analyze and provide insights into their effectiveness and implementation.
 
 <a name="literature"></a>
 
-📚 Literature Review
+## 📚 Literature Review
 
 As part of this project, a literature review was conducted to find relevant articles related to the reinforcement learning techniques being studied. Here are some of the most relevant ones:
 
@@ -34,26 +36,27 @@ As part of this project, a literature review was conducted to find relevant arti
 * Lillicrap et al. (2015) - Continuous control with deep reinforcement learning.
 <a name="data"></a>
 
-🌐 Data Collection and Preparation
+## 🌐 Data Collection and Preparation
 
 Data for reinforcement learning problems often comes in the form of environments provided by libraries like OpenAI Gym, PyBullet, or custom-built environments. These environments offer a standardized interface for agents to interact with and receive feedback in the form of rewards. Before implementing RL algorithms, it is essential to understand the environment's state and action spaces, along with any specific rules or limitations.
 
 <a name="metho"></a>
 
-📝 Methodology
+## 📝 Methodology
 
 To investigate the effectiveness of various reinforcement learning techniques, we will implement and compare the following algorithms:
 
-MDP solvers
-Monte Carlo methods
-Q-learning
-Deep Q-Network (DQN)
-REINFORCE
-Deep Deterministic Policy Gradient (DDPG)
+1) MDP solvers
+2) Monte Carlo methods
+3) Q-learning
+4) Deep Q-Network (DQN)
+5) REINFORCE
+6) Deep Deterministic Policy Gradient (DDPG)
 Each algorithm will be tested in a variety of environments to analyze their performance under different circumstances. The comparison will be based on factors such as learning speed, stability, and final performance.
 
 <a name="analysis"></a>
-📈 Data Analysis
+
+## 📈 Data Analysis
 
 Various analysis techniques will be used to evaluate the performance of the reinforcement learning algorithms. The analysis includes comparing learning curves, measuring the average cumulative reward, and evaluating the stability of the algorithms. By analyzing these factors, we can better understand the strengths and weaknesses of each method in different scenarios.
 
@@ -94,7 +97,7 @@ It's worth mentioning that the tuning time ranges from 2 minutes to 1 hour and 3
 However, this process can be accelerated by using the NVIDIA GPU toolkit, 
 reducing the tuning time to a range of 10 seconds to 30 minutes.
 
-💡 Recommendations
+## 💡 Recommendations
 
 Based on the analysis of the various reinforcement learning algorithms, we recommend using the optimal hyperparameters mentioned above to achieve the best performance in each environment.
 By adjusting the parameters for each algorithm, you can improve the stability and performance of the learning process.
@@ -102,7 +105,7 @@ Furthermore, using NVIDIA GPU toolkit can significantly reduce the time required
 
 <a name="conclusion"></a>
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project showcases the use of various reinforcement learning algorithms, such as Monte Carlo, Q-Learning, REINFORCE, DQN, and DDPG, for solving different tasks. 
 By analyzing their performance and tuning the hyperparameters, we can achieve better results in each environment. 
