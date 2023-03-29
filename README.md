@@ -63,16 +63,16 @@ Various analysis techniques will be used to evaluate the performance of the rein
 In this project, we've found the optimal hyperparameters for the following algorithms:
 
 Monte Carlo with a performance of 7.888 : 
-* "epsilon": 0.6
-* "gamma": 0.99
+* Epsilon, 0.6
+* Gamma, 0.99
 
 Q-Learning with a performance of 60.349 : 
-* "epsilon": 0.6
-* "gamma": 0.99
-* frequency: 5000
+* Epsilon, 0.6
+* Gamma, 0.99
+* Frequency, 5000
 
 REINFORCE (on Bipedal environment) with a performance of -317.601: 
-* learning rate: 6e-3 
+* learning rate, 6e-3 
 
 DQN (on CartPole environment) with performances of 398.894 and 373.2, respectively: 
 * Epsilon Expoenetial decay strategy,exploration fraction: 0.01
