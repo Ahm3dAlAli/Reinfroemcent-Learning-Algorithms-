@@ -113,6 +113,4 @@ Utilizing the NVIDIA GPU toolkit can significantly speed up the tuning process, 
 By understanding the strengths and weaknesses of each algorithm, we can make informed decisions on which method is best suited for a particular task. As reinforcement learning continues to advance, we can expect even more efficient and robust solutions to complex problems.
 
 
-## Licence 
 
-Not for public use or redistribution 
